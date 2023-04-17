@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "bob",
+        "description": "lego",
+        "price": 100,
+        "stock": 4389
+    },
+    {
+        "id": "2",
+        "name": "bobette",
+        "description": "discount lego",
+        "price": 1100,
+        "stock": 321809
+    }
+]
